@@ -9,5 +9,5 @@ package Taller13.Ejercicio2;
  * @author altoc
  */
 public interface Nadador {
-    
+    void nadar();
 }
